@@ -1,2 +1,2 @@
 # my-first-github-repository
-this is my nam
+this is my first github commit change
